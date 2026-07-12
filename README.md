@@ -1,153 +1,100 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yash+Jaiswal!;+Full+Stack+Developer;+AI+Enthusiast;+Building+AI+SaaS+Products!;" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&height=60&lines=Hi%2C+I'm+Yash+Jaiswal;Full+Stack+Developer;I+build+and+ship+AI+products+end+to+end" alt="typing" />
+
+### I build and ship production AI products end to end.
+Third year IT student focused on React, Next.js, TypeScript, and applied LLMs.
+
+<br>
+
+[![Open to Internships](https://img.shields.io/badge/Open_to-Internships-A78BFA?style=for-the-badge)](mailto:jaiswal.yash2803@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal-093684344)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashjaiswal2818)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiswal.yash2803@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashjaiswal2818&color=A78BFA&style=flat)
+
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&height=50&duration=3000&pause=1000&color=A78BFA&lines=⚡+Building+AI-powered+applications;🤖+Automating+workflows+with+n8n;💻+Full+Stack+Development;🚀+Creating+innovative+solutions;" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashjaiswal2818&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&layout=compact" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/github/followers/yashjaiswal2818?label=Followers&style=for-the-badge&color=A78BFA&labelColor=0D1117" alt="GitHub Followers" />
-</div>
-
-<br/>
-
-## About
-Full Stack Developer specializing in AI-powered applications and workflow automation. I build tools that solve real problems — from video processing pipelines to healthcare applications.
-
-```javascript
-const yash = {
-    stack: ["React", "Next.js", "Node.js", "Python", "TypeScript"],
-    databases: ["PostgreSQL", "MongoDB", "Supabase", "Vector DBs"],
-    ai: ["OpenAI", "Gemini", "Groq", "LangChain", "WhisperX"],
-    automation: ["n8n", "Inngest", "Webhooks"],
-    current: "Building AI SaaS products"
-};
-```
+---
 
 ## Tech Stack
 
 <div align="center">
 
-### Frontend
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,rust,c,html,css" alt="languages" />
 
-React | Next.js | TypeScript | Tailwind
+**Frontend and Backend**<br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,fastapi,express" alt="frontend and backend" />
 
-### Backend
-
-Node.js | Python | FastAPI | Express
-
-### Database & Cloud
-
-PostgreSQL | MongoDB | Supabase | AWS S3
-
-### AI & Automation
-
-OpenAI | Gemini | Groq | n8n
+**Databases, Tools and Cloud**<br>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,prisma,mysql,git,github,vercel" alt="databases tools cloud" />
 
 </div>
+
+<div align="center">
+<sub><b>AI and LLMs:</b> Claude · Gemini · Grok · OpenAI · Vercel AI SDK · WhisperX · Inngest &nbsp;|&nbsp; <b>Learning:</b> Rust · Solana</sub>
+</div>
+
+---
 
 ## Featured Projects
 
-<table> <tr> <td width="50%" valign="top">
+### Bender &nbsp;|&nbsp; AI Mobile UI Generator
+Turns a natural language prompt into a full set of interactive, themed mobile app screens, then runs AI personas through the prototype to surface usability issues before any code is written. Routes across multiple LLM providers, streams progress live, and runs billing on a credit system.
 
-### AI Podcast Clipper
+<sub><b>Stack:</b> Next.js 16 · React 19 · TypeScript · MongoDB · Vercel AI SDK (Claude / Gemini / Grok) · Inngest · Polar</sub>
 
-AI SaaS that transforms long podcast videos into viral 30-60 second clips with auto subtitles and speaker detection.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://benderai.app)
 
-Next.js Python WhisperX FFmpeg Gemini Stripe
+### Pavora &nbsp;|&nbsp; Open Source UI Background Gallery
+An MIT licensed gallery of 40+ ready to paste CSS and canvas backgrounds, with full viewport live previews and one click code export that needs no dependencies.
 
-Transcription with word-level timestamps
-Active speaker detection (LR-ASD)
-Vertical video generation
-Credit-based billing
-[View Repository →](https://github.com/yashjaiswal2818/AIPodcastClipper)
+<sub><b>Stack:</b> Next.js · React · TypeScript · Tailwind</sub>
 
-</td> <td width="50%" valign="top">
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://pavoracraft.vercel.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashjaiswal2818/Pavora)
 
-### YaadKar
+### YaadKar &nbsp;|&nbsp; AI Face Recognition for Dementia Care
+Built at TechSprint AI Hack '25. An app made for patients that recognizes family members in about 2 seconds and speaks their name and relationship in 7+ Indian languages. Face detection runs on the device for privacy, and Gemini generates conversation prompts personalized to each person.
 
-Dementia care application that helps patients recognize family members using AI face recognition and personalized conversations.
+<sub><b>Stack:</b> Next.js · TypeScript · Google Gemini · face-api.js · Firebase</sub>
 
-n8n Supabase Groq Llama 4 React
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://yaadkar.vercel.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashjaiswal2818/Yaadkar)
 
-Real-time face recognition
-AI-generated personalized greetings
-Family member management
-n8n workflow automation
-[View Repository →](https://github.com/yashjaiswal2818/Yaadkar)
+### AI Podcast Clipper &nbsp;|&nbsp; Short Form Video SaaS
+Turns long podcasts into 9:16 short clips through an AI pipeline: WhisperX transcription, Gemini moment detection, and cropping to the active speaker. Runs on serverless GPUs, with billing on a Stripe credit system.
 
-</td> </tr> <tr> <td width="50%" valign="top">
+<sub><b>Stack:</b> Next.js · Python · FastAPI · WhisperX · Gemini · AWS S3 · Modal</sub>
 
-### SparkAI
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashjaiswal2818/AIPodcastClipper)
 
-AI-powered mobile UI generator — describe what you want in natural language, get production-ready mobile screens.
+### Girls Walk Club &nbsp;|&nbsp; Full Stack Events Site (Client Work)
+A community events website built for a paying client: registration and RSVP, automated email confirmations, a token protected admin dashboard, and WCAG 2.2 AA accessibility.
 
-Next.js OpenRouter Inngest MongoDB Clerk
+<sub><b>Stack:</b> Next.js · React · TypeScript · Supabase · PostgreSQL · Resend</sub>
 
-Natural language to UI
-Figma-like canvas interface
-Multiple design themes
-Multi-screen project support
-[View Repository →](https://github.com/yashjaiswal2818/Spark)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://girlswalkclubsc.vercel.app)
 
-</td> <td width="50%" valign="top">
+### MentorAI &nbsp;|&nbsp; AI Learning Platform
+AI mentors across subjects, with voice interaction (Vapi), talk to PDF, and secure auth.
 
-### IngestAPI
+<sub><b>Stack:</b> Next.js · Supabase · Clerk · Tailwind · Vapi</sub>
 
-Credit-based API for web scraping, PDF/image extraction, and vector embeddings. Built for RAG pipelines.
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://mentorai1.netlify.app)
+[![Source](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yashjaiswal2818/mentorai)
 
-n8n Supabase Gemini Vector DB
+---
 
-Recursive web scraping
-PDF and image OCR
-Vector embeddings generation
-API key authentication
-[View Repository →](https://github.com/yashjaiswal2818/medspa-demo)
-
-</td> </tr> <tr> <td width="50%" valign="top">
-
-### MentorAI
-
-AI learning platform with voice-powered companions, document chat, and startup validation tools.
-
-Next.js OpenAI Vapi AI Supabase Clerk
-
-Voice AI companions
-Talk to PDF functionality
-Startup idea validator
-Mind map generation
-[View Repository →](https://github.com/yashjaiswal2818/mentorai)
-
-</td> <td width="50%" valign="top">
-
-### More Projects
-
-Explore all my repositories for more AI tools, automation workflows, and full-stack applications.
-
-[View All Repositories →](https://github.com/yashjaiswal2818?tab=repositories)
-
-</td> </tr> </table>
-
-## GitHub Stats
-<div align="center"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashjaiswal2818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=yashjaiswal2818&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" /></div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjaiswal2818&custom_title=Contribution%20Graph&bg_color=0D1117&color=A78BFA&line=A78BFA&point=FFFFFF&area_color=A78BFA&area=true&hide_border=true" width="95%"/> </div>
-
-## Connect
+## GitHub Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yashjaiswal2818)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jaiswal-093684344)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashu12345jaiswal@gmail.com)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=yashjaiswal2818&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=yashjaiswal2818&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashjaiswal2818&bg_color=0D1117&color=c9d1d9&line=A78BFA&point=FFFFFF&area_color=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%" alt="activity graph" />
 
 </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:4a00e0&height=100&section=footer"/> </div>
