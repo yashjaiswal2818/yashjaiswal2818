@@ -1,19 +1,41 @@
-<a href="https://yashjaiswal-ten.vercel.app">
-  <img src="assets/banner.svg" alt="Yash Jaiswal. I build web apps, storefronts, AI agents and dev tools." width="100%">
-</a>
+<a href="https://yashjaiswal-ten.vercel.app"><img src="assets/banner.svg" alt="Yash Jaiswal. I build web apps, storefronts, AI agents and dev tools." width="100%"></a>
 
-i'm a full-stack engineer in mumbai. mostly typescript and python: next.js, react, fastapi. i like owning a thing from the first sketch to the deployed app, then fixing whatever real users break.
+<p align="center"><img src="assets/now.svg" alt="building get-ui · learning rust + solana · open to freelance and full-time" width="100%"></p>
 
-my portfolio is a mac desktop where every project is a folder you can open and chat with. there's music, a few sticky notes and one konami code. it's at **[yashjaiswal-ten.vercel.app](https://yashjaiswal-ten.vercel.app)**.
+<p align="center">full-stack engineer in mumbai. my portfolio is a mac desktop where every project is a folder you can open and chat with.</p>
 
-### what's in the folders
+## the folders
 
-- **[Stepwise](https://stepwise-beta.vercel.app)**: a DSA visualizer where every data structure is drawn as itself, with an AI tutor that can drive the playback. [code](https://github.com/yashjaiswal2818/stepwise)
-- **[Bender](https://benderai.app)**: describe an app, get a set of real, themed mobile screens on an infinite canvas. edit them by chat, export clean code.
-- **[get-ui](https://www.npmjs.com/package/get-ui-cli)**: one command to install any of 2,800+ react and tailwind components from nine open-source registries.
-- **[ClauseWise](https://clausewise-nu.vercel.app)**: upload an indian loan or rental agreement and get every clause in plain language, with risk flags, in four languages. [code](https://github.com/yashjaiswal2818/clausewise)
-- **Caliper**: an air-gapped agent for industrial documents. it computes deterministically, cites the exact region it used, and refuses when it can't. [code](https://github.com/yashjaiswal2818/sovereignAI)
-- **[Rizzé Co.](https://rizze-plum.vercel.app)**: a custom headless storefront for a coastal activewear brand, on next.js 16 and shopify.
+<p align="center">
+  <a href="https://yashjaiswal-ten.vercel.app/work/stepwise"><img src="assets/card-stepwise.svg" alt="Stepwise: a DSA visualizer with an AI tutor" width="49%"></a>
+  <a href="https://yashjaiswal-ten.vercel.app/work/bender"><img src="assets/card-bender.svg" alt="Bender: real mobile screens from a prompt" width="49%"></a>
+  <a href="https://yashjaiswal-ten.vercel.app/work/get-ui"><img src="assets/card-get-ui.svg" alt="get-ui: install any UI component with one command" width="49%"></a>
+  <a href="https://yashjaiswal-ten.vercel.app/work/clausewise"><img src="assets/card-clausewise.svg" alt="ClauseWise: loan and rental agreements explained" width="49%"></a>
+  <a href="https://yashjaiswal-ten.vercel.app/work/caliper"><img src="assets/card-caliper.svg" alt="Caliper: an air-gapped agent for industrial documents" width="49%"></a>
+  <a href="https://yashjaiswal-ten.vercel.app/work/rizze"><img src="assets/card-rizze.svg" alt="Rizzé Co.: a headless storefront" width="49%"></a>
+</p>
+
+<p align="center"><sub>each card opens that folder on my site, where you can chat with the project.</sub></p>
+
+## the toolbox
+
+<img src="assets/stack.svg" alt="TypeScript, React, Next.js, Python, FastAPI, Postgres, Rust and more" width="100%">
+
+## lately
+
+<img src="assets/activity.svg" alt="my GitHub contribution graph" width="100%">
+
+## say hi
+
+<p align="center">
+  <a href="https://yashjaiswal-ten.vercel.app"><img src="assets/dock-portfolio.svg" alt="portfolio" title="portfolio" width="72"></a>
+  <a href="https://github.com/yashjaiswal2818"><img src="assets/dock-github.svg" alt="github" title="github" width="72"></a>
+  <a href="https://www.linkedin.com/in/yash-jaiswal-093684344"><img src="assets/dock-linkedin.svg" alt="linkedin" title="linkedin" width="72"></a>
+  <a href="mailto:jaiswal.yash2803@gmail.com"><img src="assets/dock-email.svg" alt="email" title="email" width="72"></a>
+  <a href="https://cal.com/yashjaiswal28/15min"><img src="assets/dock-calendar.svg" alt="book a call" title="book 15 minutes" width="72"></a>
+</p>
+
+<p align="center">got a rough idea? we'll figure out the rest together.</p>
 
 <details>
 <summary>older projects</summary>
@@ -25,11 +47,3 @@ my portfolio is a mac desktop where every project is a folder you can open and c
 - **[MentorAI](https://mentorai1.netlify.app)**: AI mentors with voice and talk-to-PDF. [code](https://github.com/yashjaiswal2818/mentorai)
 
 </details>
-
-### right now
-
-building get-ui. learning rust and solana. open to freelance projects and full-time roles.
-
-<img src="https://skillicons.dev/icons?i=ts,py,react,nextjs,tailwind,fastapi,postgres,prisma,redis,rust,vercel&perline=11" alt="tech stack">
-
-[portfolio](https://yashjaiswal-ten.vercel.app) · [linkedin](https://www.linkedin.com/in/yash-jaiswal-093684344) · [email](mailto:jaiswal.yash2803@gmail.com) · [15 min call](https://cal.com/yashjaiswal28/15min)

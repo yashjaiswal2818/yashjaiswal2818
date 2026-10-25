@@ -1,0 +1,26 @@
+name: refresh activity graph
+
+on:
+  schedule:
+    - cron: "17 */12 * * *"   # twice a day
+  workflow_dispatch:           # or run it by hand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Rebuild assets/activity.svg from my real contributions
+        run: python3 scripts/build_activity.py yashjaiswal2818 assets/activity.svg
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/activity.svg
+          if ! git diff --staged --quiet; then
+            git commit -m "refresh activity graph"
+            git push
+          fi
