@@ -1,4 +1,4 @@
-<a href="https://yashjaiswal-ten.vercel.app"><img src="assets/banner.svg" alt="Yash Jaiswal. I build web apps, storefronts, AI agents and dev tools." width="100%"></a>
+<a href="https://jaiswalyash.vercel.app"><img src="assets/banner.svg" alt="Yash Jaiswal. I build web apps, storefronts, AI agents and dev tools." width="100%"></a>
 
 <p align="center"><img src="assets/now.svg" alt="building get-ui · learning rust + solana · open to freelance and full-time" width="100%"></p>
 
@@ -7,12 +7,12 @@
 ## the folders
 
 <p align="center">
-  <a href="https://yashjaiswal-ten.vercel.app/work/stepwise"><img src="assets/card-stepwise.svg" alt="Stepwise: a DSA visualizer with an AI tutor" width="49%"></a>
-  <a href="https://yashjaiswal-ten.vercel.app/work/bender"><img src="assets/card-bender.svg" alt="Bender: real mobile screens from a prompt" width="49%"></a>
-  <a href="https://yashjaiswal-ten.vercel.app/work/get-ui"><img src="assets/card-get-ui.svg" alt="get-ui: install any UI component with one command" width="49%"></a>
-  <a href="https://yashjaiswal-ten.vercel.app/work/clausewise"><img src="assets/card-clausewise.svg" alt="ClauseWise: loan and rental agreements explained" width="49%"></a>
-  <a href="https://yashjaiswal-ten.vercel.app/work/caliper"><img src="assets/card-caliper.svg" alt="Caliper: an air-gapped agent for industrial documents" width="49%"></a>
-  <a href="https://yashjaiswal-ten.vercel.app/work/rizze"><img src="assets/card-rizze.svg" alt="Rizzé Co.: a headless storefront" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/stepwise"><img src="assets/card-stepwise.svg" alt="Stepwise: a DSA visualizer with an AI tutor" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/bender"><img src="assets/card-bender.svg" alt="Bender: real mobile screens from a prompt" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/get-ui"><img src="assets/card-get-ui.svg" alt="get-ui: install any UI component with one command" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/clausewise"><img src="assets/card-clausewise.svg" alt="ClauseWise: loan and rental agreements explained" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/caliper"><img src="assets/card-caliper.svg" alt="Caliper: an air-gapped agent for industrial documents" width="49%"></a>
+  <a href="https://jaiswalyash.vercel.app/work/rizze"><img src="assets/card-rizze.svg" alt="Rizzé Co.: a headless storefront" width="49%"></a>
 </p>
 
 <p align="center"><sub>each card opens that folder on my site, where you can chat with the project.</sub></p>
@@ -28,7 +28,7 @@
 ## say hi
 
 <p align="center">
-  <a href="https://yashjaiswal-ten.vercel.app"><img src="assets/dock-portfolio.svg" alt="portfolio" title="portfolio" width="72"></a>
+  <a href="https://jaiswalyash.vercel.app"><img src="assets/dock-portfolio.svg" alt="portfolio" title="portfolio" width="72"></a>
   <a href="https://github.com/yashjaiswal2818"><img src="assets/dock-github.svg" alt="github" title="github" width="72"></a>
   <a href="https://www.linkedin.com/in/yash-jaiswal-093684344"><img src="assets/dock-linkedin.svg" alt="linkedin" title="linkedin" width="72"></a>
   <a href="mailto:jaiswal.yash2803@gmail.com"><img src="assets/dock-email.svg" alt="email" title="email" width="72"></a>
